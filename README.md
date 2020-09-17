@@ -22,6 +22,9 @@ So, I can't speak Java but can write program with Java, JavaScript, Kotlin and P
 Design UI/UX ? Yes I can.. 
 </p>
 </div>
+
+### A little more about me...  
+
 ```javascript
 const rizqi = {
     pronouns: "He" | "Him",
