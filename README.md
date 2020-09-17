@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **muhammad-rizqi/muhammad-rizqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="text-align: center;"> 
+<h1> Hi, I'm Muhammad Rizqi</h1>
+<blockquote>
+I'm Programmer. I live in Java island. I'm Sundanese :)
+So, I can't speak Java but can write program with Java, JavaScript, Kotlin and PHP.
+
+Design UI/UX ? Yes I can.. 
+</blockquote>
+</div>
