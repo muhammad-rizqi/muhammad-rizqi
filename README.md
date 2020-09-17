@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;"> 
+<div align="center"> 
 <h1> Hi, I'm Muhammad Rizqi</h1>
 <p>
 I'm Programmer. I live in Java island. I'm Sundanese :)
@@ -21,7 +21,13 @@ So, I can't speak Java but can write program with Java, JavaScript, Kotlin and P
 
 Design UI/UX ? Yes I can.. 
 </p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=muhammad-rizqi&show_icons=true)
+
 </div>
+
+
+  
 
 ### A little more about me...  
 
