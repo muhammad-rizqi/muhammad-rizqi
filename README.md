@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 <h1> Hi, I'm Muhammad Rizqi</h1>
+<h2 align="right"> أهلا' أنا محمد رزقي</h2>
 <p>
 I'm Programmer. I live in Java island. I'm Sundanese :)
 So, I can't speak Java but can write program with Java, JavaScript, Kotlin and PHP.
@@ -34,7 +35,7 @@ Design UI/UX ? Yes I can..
 ```javascript
 const rizqi = {
     pronouns: "He" | "Him",
-    code: ["Kotlin", "Java", "Javascript", "php"],
+    code: ["Kotlin", "Java", "JavaScript", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "graphic design"],
     technologies: {
         mobileApp: ["Android Studio","React Native"],
@@ -52,3 +53,10 @@ const rizqi = {
     funFact: "Try and Error is the best way for coding"
 };
 ```
+<div align="center">
+ 
+ **✨Visitors**<br>
+ 
+[![ViewCount](https://views.whatilearened.today/views/github/muhammad-rizqi/ismlhbb.svg?cache=remove)](#)
+
+</div>
