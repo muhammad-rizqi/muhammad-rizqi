@@ -32,37 +32,37 @@ Design UI/UX ? Yes I can..
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Kotlin</span><br><br>
+        <b>Kotlin</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
       <td width="25%" align="center">
-        <span>React Native</span><br>
+        <b>React Native</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br>
+        <b>Java</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>PHP</span><br>
+        <b>PHP</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Figma</span><br>
+        <b>Figma</b><br><br>
         <img height="64px" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=736">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br>
+        <b>Git</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Visual Studio Code</span><br>
+        <b>Visual Studio Code</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span>Android Studio</span><br>
+        <b>Android Studio</b><br><br>
         <img height="64px" src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/android-studio_512_360x360.png?v=1588579290">
       </td>
     </tr>
