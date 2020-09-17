@@ -22,3 +22,24 @@ So, I can't speak Java but can write program with Java, JavaScript, Kotlin and P
 Design UI/UX ? Yes I can.. 
 </p>
 </div>
+```javascript
+const rizqi = {
+    pronouns: "He" | "Him",
+    code: ["Kotlin", "Java", "Javascript", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "graphic design"],
+    technologies: {
+        mobileApp: ["Android Studio","React Native"],
+        frontEnd: {
+            js: ["React Js"],
+            css: ["Bootstrap", "W3.CSS"]
+        },
+        backEnd: {
+            js: ["node"],
+            php: ["native functional", "OOP native"]
+        },
+        databases: ["MySql", "sqlite"],
+    },
+    currentProject: "I am developing awesome app for muslim people",
+    funFact: "Try and Error is the best way for coding"
+};
+```
