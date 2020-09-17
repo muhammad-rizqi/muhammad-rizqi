@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <div style="text-align: center;"> 
 <h1> Hi, I'm Muhammad Rizqi</h1>
-<blockquote>
+<p>
 I'm Programmer. I live in Java island. I'm Sundanese :)
 So, I can't speak Java but can write program with Java, JavaScript, Kotlin and PHP.
 
 Design UI/UX ? Yes I can.. 
-</blockquote>
+</p>
 </div>
