@@ -1,73 +1,11 @@
 <!--
 **muhammad-rizqi/muhammad-rizqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <div align="center"> 
-<h1> Hi, I'm Muhammad Rizqi</h1>
-<h2> أهلا، أنا محمد رزقي</h2>
-<p>
-I'm Programmer. I live in Java island. I'm Sundanese :)
-So, I can't speak Java but can write program with Java, JavaScript, Kotlin and PHP.
-
-Design UI/UX ? Yes I can.. 
-</p>
+<img src="https://res.cloudinary.com/muhammad-rizqi/image/upload/v1600739413/Cover_3_xwv1ld.png">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhammad-rizqi&show_icons=true)
-
-
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <b>Kotlin</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>React Native</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Java</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>PHP</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <b>Figma</b><br><br>
-        <img height="64px" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=736">
-      </td>
-      <td width="25%" align="center">
-        <b>Git</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Visual Studio Code</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Android Studio</b><br><br>
-        <img height="64px" src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/android-studio_512_360x360.png?v=1588579290">
-      </td>
-    </tr>
-  </tbody>
-</table>
   
 </div>
 
