@@ -3,7 +3,13 @@
 -->
 
 <div align="center"> 
-<img src="https://res.cloudinary.com/muhammad-rizqi/image/upload/v1600739413/Cover_3_xwv1ld.png">
+<img src="https://res.cloudinary.com/muhammad-rizqi/image/upload/v1600739413/Cover_3_xwv1ld.png" usemap="#planetmap">
+
+<map name="planetmap">
+  <area shape="rect" coords="0,0,82,126" href="sun.htm" alt="Sun">
+  <area shape="circle" coords="90,58,3" href="mercur.htm" alt="Mercury">
+  <area shape="circle" coords="124,58,8" href="venus.htm" alt="Venus">
+</map>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhammad-rizqi&show_icons=true)
   
