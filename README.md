@@ -9,6 +9,9 @@
   
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### A little more about me...  
 
 ```javascript
