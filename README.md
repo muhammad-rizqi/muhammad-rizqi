@@ -10,6 +10,13 @@
 </div>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   11 hrs 1 min    █████████████████▓░░░░░░░   71.33 % 
+Other        3 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+HTML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Dart         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+```
 <!--END_SECTION:waka-->
 
 ### A little more about me...  
