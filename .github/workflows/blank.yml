@@ -11,10 +11,10 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: muhammad-rizqi/waka-readme@master
+      - uses: .github/workflows/@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      - uses: muhammad-rizqi/waka-readme@master
+      - uses: .github/workflows/@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
