@@ -9,6 +9,9 @@
   
 </div>
 
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-rizqi&layout=compact)](https://github.com/muhammad-rizqi) 
+
+### Weekly stats
 <!--START_SECTION:waka-->
 ```text
 JavaScript   21 hrs 14 mins  ████████████████████▓░░░░   82.60 % 
