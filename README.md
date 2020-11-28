@@ -22,6 +22,9 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5ff8db64-558c-4027-8bd0-2e529198d272/f2fadd89-6c36-4cce-bf87-62f12d95ee15.png" /></a>
+    
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5ff8db64-558c-4027-8bd0-2e529198d272/fc28fc5b-eb44-41d8-881d-1f101cf0b7c0.png" /></a>
 ### A little more about me...  
 
 ```javascript
