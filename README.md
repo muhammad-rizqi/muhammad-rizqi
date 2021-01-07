@@ -38,10 +38,10 @@ const rizqi = {
             css: ["Bootstrap", "W3.CSS"]
         },
         backEnd: {
-            js: ["node"],
+            js: ["expressjs"],
             php: ["native functional", "OOP native"]
         },
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql", "sqlite", "MongoDB"],
     },
     currentProject: "I am developing awesome app for muslim people",
     funFact: "Try and Error is the best way for coding"
