@@ -14,11 +14,10 @@
 ### Weekly stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript         18 hrs 52 mins  ████████████████████████▒   97.77 % 
-reStructuredText   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Groovy             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Other              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Kotlin             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+JavaScript         14 hrs 45 mins  ████████████████████████▒   97.06 % 
+HTML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+reStructuredText   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
 
