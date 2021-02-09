@@ -14,11 +14,9 @@
 ### Weekly stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 10 mins   ██████████████████▓░░░░░░   74.85 % 
-Kotlin       55 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Git Config   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Dart         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript   3 hrs 40 mins   ██████████████████▒░░░░░░   73.66 % 
+Kotlin       56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Git Config   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
 <!--END_SECTION:waka-->
 
