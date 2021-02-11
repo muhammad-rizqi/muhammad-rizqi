@@ -14,9 +14,11 @@
 ### Weekly stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 31 mins   ████████████████▒░░░░░░░░   65.85 % 
-Kotlin       55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-Git Config   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JavaScript   3 hrs 24 mins   ███████████████▒░░░░░░░░░   61.36 % 
+Kotlin       55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Git Config   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Groovy       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 <!--END_SECTION:waka-->
 
