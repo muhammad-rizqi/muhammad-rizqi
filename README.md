@@ -14,8 +14,10 @@
 ### Weekly stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   21 hrs 50 mins  █████████████████████████   99.75 % 
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript   25 hrs 33 mins  ████████████████████████▓   98.77 % 
+Groovy       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
