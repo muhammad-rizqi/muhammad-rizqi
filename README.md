@@ -14,7 +14,11 @@
 ### Weekly stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 hrs 34 mins   ██████████████████████▓░░   90.07 % 
+PHP          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Java         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Groovy       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
