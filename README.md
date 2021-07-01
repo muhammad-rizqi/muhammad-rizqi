@@ -1,15 +1,16 @@
 <!--
 **muhammad-rizqi/muhammad-rizqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+[![CodeWars](https://www.codewars.com/users/muhammad-rizqi/badges/large)](https://www.codewars.com/users/muhammad-rizqi/)
 
 <div align="center"> 
+
 <img src="https://res.cloudinary.com/muhammad-rizqi/image/upload/v1600739413/Cover_3_xwv1ld.png">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhammad-rizqi&show_icons=true)
   
 </div>
-
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-rizqi&layout=compact)](https://github.com/muhammad-rizqi) 
+ 
 
 ### Weekly stats
 <!--START_SECTION:waka-->
@@ -38,8 +39,8 @@ const rizqi = {
             css: ["Bootstrap", "W3.CSS"]
         },
         backEnd: {
-            js: ["expressjs"],
-            php: ["native functional", "OOP native"]
+            js: ["expressjs", "nestjs"],
+            php: ["native functional", "OOP native", "lumen"]
         },
         databases: ["MySql", "sqlite", "MongoDB"],
     },
@@ -52,5 +53,4 @@ const rizqi = {
  **✨Visitors**<br>
  
 [![ViewCount](https://views.whatilearened.today/views/github/muhammad-rizqi/ismlhbb.svg?cache=remove)](#)
-
 </div>
