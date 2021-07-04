@@ -15,9 +15,7 @@
 ### Weekly stats
 <!--START_SECTION:waka-->
 ```text
-Kotlin       3 hrs 37 mins   ███████████████████▓░░░░░   79.06 % 
-XML          35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Groovy       21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
