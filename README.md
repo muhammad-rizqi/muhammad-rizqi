@@ -15,7 +15,8 @@
 ### Weekly stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript    2 hrs 15 mins   ████████████████████████▒   96.78 % 
+TypeScript    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 <!--END_SECTION:waka-->
 
