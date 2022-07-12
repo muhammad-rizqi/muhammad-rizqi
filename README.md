@@ -34,14 +34,16 @@ const rizqi = {
     technologies: {
         mobileApp: ["Android Studio","React Native"],
         frontEnd: {
-            js: ["React Js"],
-            css: ["Bootstrap", "W3.CSS"]
+            js: ["React Js", "Vue Js"],
+            css: ["Bootstrap", "W3.CSS", "Primeflex"]
         },
         backEnd: {
             js: ["expressjs", "nestjs"],
-            php: ["native functional", "OOP native", "lumen"]
+            php: ["native functional", "OOP native", "lumen"],
+            java: ["spring boot"],
+            kotlin: ["spring boot"]
         },
-        databases: ["MySql", "sqlite", "MongoDB"],
+        databases: ["MySql", "sqlite", "MongoDB", "elasticsearch"],
     },
     currentProject: "I am developing awesome app for muslim people",
     funFact: "Try and Error is the best way for coding"
