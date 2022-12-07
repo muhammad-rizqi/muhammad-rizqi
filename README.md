@@ -29,12 +29,12 @@ Java     52 mins         █▒░░░░░░░░░░░░░░░░�
 ```javascript
 const rizqi = {
     pronouns: "He" | "Him",
-    code: ["Kotlin", "Java", "JavaScript", "php"],
+    code: [".kt", ".java", ".js", ".dart", ".php"],
     askMeAbout: ["web dev", "tech", "app dev", "graphic design"],
     technologies: {
-        mobileApp: ["Android Studio","React Native"],
+        mobileApp: ["Android Studio","React Native", "Flutter"],
         frontEnd: {
-            js: ["React Js", "Vue Js"],
+            js: ["React Js", "Vue Js", "Flutter Web"],
             css: ["Bootstrap", "W3.CSS", "Primeflex"]
         },
         backEnd: {
