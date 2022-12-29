@@ -4,11 +4,7 @@
 [![CodeWars](https://www.codewars.com/users/muhammad-rizqi/badges/large)](https://www.codewars.com/users/muhammad-rizqi/)
 
 <div align="center"> 
-
 <img src="https://res.cloudinary.com/muhammad-rizqi/image/upload/v1600739413/Cover_3_xwv1ld.png">
-
-![github stats](https://github-readme-stats.vercel.app/api?username=muhammad-rizqi&show_icons=true)
-  
 </div>
  
 
