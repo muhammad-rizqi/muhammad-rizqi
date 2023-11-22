@@ -1,12 +1,7 @@
 <!--
 **muhammad-rizqi/muhammad-rizqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![CodeWars](https://www.codewars.com/users/muhammad-rizqi/badges/large)](https://www.codewars.com/users/muhammad-rizqi/)
 
-<div align="center"> 
-<img src="https://res.cloudinary.com/muhammad-rizqi/image/upload/v1600739413/Cover_3_xwv1ld.png">
-</div>
- 
 
 ### Weekly stats
 <!--START_SECTION:waka-->
