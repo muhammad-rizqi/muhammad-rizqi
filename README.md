@@ -2,17 +2,6 @@
 **muhammad-rizqi/muhammad-rizqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-### Weekly stats
-<!--START_SECTION:waka-->
-```text
-Kotlin   13 hrs 38 mins  ████████████████████▒░░░░   81.63 % 
-XML      2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Java     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-```
-<!--END_SECTION:waka-->
-### A little more about me...  
-
 ```javascript
 const rizqi = {
     pronouns: "He" | "Him",
